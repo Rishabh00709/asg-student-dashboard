@@ -154,7 +154,7 @@
 <div class="row text-dark text-center">
   <div class="col-lg-4 col-md-4 col-12 container-fluid">
     <div class="card" style="width:400px">
-  <img class="card-img-top" src="asg/ni3.jpg" alt="Card image">
+  <img class="card-img-top" src="ni3.jpg" alt="Card image">
   <div class="card-body">
     <h4 class="card-title">Web Development</h4>
     <p class="card-text"></p>
@@ -165,7 +165,7 @@
 
   <div class="col-lg-4 col-md-4 col-12 container-fluid">
     <div class="card" style="width:400px">
-  <img class="card-img-top" src="asg/ni3.jpg" alt="Card image">
+  <img class="card-img-top" src="ni3.jpg" alt="Card image">
   <div class="card-body">
     <h4 class="card-title">ALGORITHMS</h4>
     <p class="card-text"></p>
@@ -176,7 +176,7 @@
 
   <div class="col-lg-4 col-md-4 col-12">
     <div class="card" style="width:400px">
-  <img class="card-img-top" src="asg/ni3.jpg" alt="Card image">
+  <img class="card-img-top" src="ni3.jpg" alt="Card image">
   <div class="card-body">
     <h4 class="card-title">COMPETITIVE PROGRAMMING</h4>
     <p class="card-text"></p>
@@ -202,7 +202,7 @@
 <div class="row text-dark text-center">
   <div class="col-lg-4 col-md-4 col-12 container-fluid">
     <div class="card" style="width:400px">
-  <img class="card-img-top" src="asg/ni3.jpg" alt="Card image">
+  <img class="card-img-top" src="ni3.jpg" alt="Card image">
   <div class="card-body">
     <h4 class="card-title">Web Development</h4>
     <p class="card-text"></p>
@@ -213,7 +213,7 @@
 
   <div class="col-lg-4 col-md-4 col-12 container-fluid">
     <div class="card" style="width:400px">
-  <img class="card-img-top" src="asg/ni3.jpg" alt="Card image">
+  <img class="card-img-top" src="ni3.jpg" alt="Card image">
   <div class="card-body">
     <h4 class="card-title">ALGORITHMS</h4>
     <p class="card-text"></p>
@@ -224,7 +224,7 @@
 
   <div class="col-lg-4 col-md-4 col-12">
     <div class="card" style="width:400px">
-  <img class="card-img-top" src="asg/ni3.jpg" alt="Card image">
+  <img class="card-img-top" src="ni3.jpg" alt="Card image">
   <div class="card-body">
     <h4 class="card-title">COMPETITIVE PROGRAMMING</h4>
     <p class="card-text"></p>
