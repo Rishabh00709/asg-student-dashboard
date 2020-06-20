@@ -361,7 +361,7 @@
    
   </div>
   <!-- Copyright -->
-
+</body>
 </footer>
 <!-- Footer -->
 </html>
